@@ -1,6 +1,6 @@
 # take-fish
 
-TL;DR: `take dir/subdir` == `mkdir -vp $1; cd $1`
+**TL;DR**: `take dir/subdir` == `mkdir -vp dir/subdir; cd dir/subdir`
 
 An alias that creates directories then enters into it.
 
